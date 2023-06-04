@@ -22,7 +22,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/vallyberry/AirBnB_clone_v4.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -158,6 +158,6 @@ Ndukauba Valentine - [Github](https://github.com/vallyberry) /
 [Twitter](https://twitter.com/vallyberry01)  
 
 
-Second part of Airbnb: Ndukauba Val
+Fourth part of Airbnb: Ndukauba Val
 ## License
 Public Domain. No copy write protection. 
